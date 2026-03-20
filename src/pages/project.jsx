@@ -2,6 +2,7 @@ import { ProjectCard } from '../components';
 import conflistikImg from '../assets/img/conflistik.png';
 import stageImg from '../assets/img/stage.png';
 import calendarProjectImg from '../assets/img/calendarProject.png';
+import communityApiImg from '../assets/img/api.webp';
 import { m } from '../paraglide/messages';
 function Projet() {
     return (
@@ -40,6 +41,18 @@ function Projet() {
                         image={calendarProjectImg}
                         repositoryLink="https://github.com/baldazi/TPE"
                         demoLink="https://drive.google.com/file/d/1M64TxwiTkocrpaLWaHi0ZNA3h1eu0XLM/view?usp=sharing"
+                    />
+                </div>
+
+                {/* api */}
+                <div className="divider divider-warning divider-center md:w-[50%] mx-auto"><span className="badge badge-lg badge-warning">Restful api</span></div>
+                <div className="flex gap-5 justify-center">
+                    {/* stage card */}
+                    <ProjectCard title={m["page.project.communityTitle"]()}
+                        description={m["page.project.communityDesc"]()}
+                        image={communityApiImg}
+                        repositoryLink="https://demo-blog-api.inasg.org"
+                        demoLink="https://demo-blog-api.inasg.org/docs"
                     />
                 </div>
             </div>

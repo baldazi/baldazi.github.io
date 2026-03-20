@@ -27,7 +27,9 @@
       "internshipMobileDesc": "Cette application mobile développée en collaboration vise à faciliter le processus de candidature aux offres de stage. Elle consomme une API REST développée et déployée sur Heroku, permettant aux utilisateurs de rechercher et de postuler à des annonces de stage. Son objectif est de simplifier la recherche et la candidature aux stages.",
       "internshipWebAppDesc": "L’application web, imposée par l’école, a inspiré la version mobile même si les deux n’ont pas été développées ensemble. Elle permet de rechercher et de postuler à des offres de stage en ligne. Elle propose une interface simple pour filtrer les annonces, gérer son profil et accéder à des ressources utiles pour les candidats.",
       "calendarTitle": "Agrégateur d'Événements",
-      "calendarDesc": "Ce projet consistait à concevoir une solution permettant de centraliser des événements provenant de diverses sources, notamment via des fichiers au format ICS ou des liens URL, afin de faciliter la gestion d'agendas. Le système permet d'automatiser la création et l'envoi de newsletters pour tenir les utilisateurs informés, tout en assurant une synchronisation efficace des dates et des rendez-vous."
+      "calendarDesc": "Ce projet consistait à concevoir une solution permettant de centraliser des événements provenant de diverses sources, notamment via des fichiers au format ICS ou des liens URL, afin de faciliter la gestion d'agendas. Le système permet d'automatiser la création et l'envoi de newsletters pour tenir les utilisateurs informés, tout en assurant une synchronisation efficace des dates et des rendez-vous.",
+      "communityTitle": "Plateforme Communautaire",
+      "communityDesc": "Développement d'un système complet de gestion de plateforme de publication permettant la création d'articles, l'interaction par commentaires et réactions, ainsi que l'organisation par thématiques via un système de tags. Le projet intègre une gestion avancée des profils et un système d'autorisations sécurisé pour offrir une expérience utilisateur moderne et structurée."
     },
     "about": {
       "bioFrame1": "Je suis ",

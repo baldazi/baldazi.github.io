@@ -27,7 +27,9 @@
       "internshipMobileDesc": "This mobile application developed in collaboration aims to facilitate the application process for internship opportunities. It consumes a REST API developed and deployed on Heroku, enabling users to search for and apply to internship listings. Its goal is to streamline the internship search and application process.",
       "internshipWebAppDesc": "The web application that inspired the mobile version was imposed by the school, and there was no connection between their development. It was designed to help users search and apply for internships online. The platform allows users to browse, filter, and apply to internship offers, and includes features like profile management and access to useful resources.",
       "calendarTitle": "Event Aggregator",
-      "calendarDesc": "This project consisted of designing a solution to centralize events from various sources, notably via ICS files or URL links, to facilitate schedule management. The system automates the creation and sending of newsletters to keep users informed, while ensuring efficient synchronization of dates and appointments."
+      "calendarDesc": "This project consisted of designing a solution to centralize events from various sources, notably via ICS files or URL links, to facilitate schedule management. The system automates the creation and sending of newsletters to keep users informed, while ensuring efficient synchronization of dates and appointments.",
+      "communityTitle": "Community Platform",
+      "communityDesc": "Development of a complete publishing platform management system allowing article creation, interaction through comments and reactions, and organization by topics via a tagging system. The project integrates advanced profile management and a secure authorization system to provide a modern and structured user experience."
     },
     "about": {
       "bioFrame1": "I’m ",
